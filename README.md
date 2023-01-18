@@ -1,4 +1,4 @@
-# ISS_Over_Head
+# SATELITE TRACKING
 Checks if the ISS is currently above us
 
 This program allows you to track the ISS, basically any satellite that interests us and inform us when it is near us.
